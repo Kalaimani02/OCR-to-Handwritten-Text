@@ -18,7 +18,7 @@ Converting Text in image to Text of our Handwriting
 # Output Image
 ![Handwritten](https://user-images.githubusercontent.com/89019323/148694348-788db46e-cd76-49a6-9cda-9ec497dab3d8.jpg)
 
-We can also use the textToImage.py seperately alone. We can copy text from internet and paste it the OCR_output.txt Then it will convert that to the text of our Handwriting.
+We can also use the textToImage.py seperately alone. We can copy text from internet and paste it the OCR_output.txt Then the program will convert it to the text of our Handwriting.
 
 # Result from copied text
 ![Handwritten](https://user-images.githubusercontent.com/89019323/148694474-9b6d16ba-9bc6-4311-b2ab-6ae1bcc4052e.jpg)
