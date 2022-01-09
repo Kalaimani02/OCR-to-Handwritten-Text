@@ -2,10 +2,10 @@
 Converting Text in image to Text of our Handwriting
 
 # Function
-     It takes an image as an input, for example a screenshot of some content in any website. Then it will convert that text to the image of our handwriting.
+    It takes an image as an input, for example a screenshot of some content in any website. Then it will convert that text to the image of our handwriting.
 
 # Requirements
-     We need a charset which contains images of all the characters handwritten and named by their ASCII values
+    We need a charset which contains images of all the characters handwritten and named by their ASCII values
 
 # Explaination
    This program has 2 parts. 
